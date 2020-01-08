@@ -1,5 +1,5 @@
 # a million commits
-for Y in {2018..2025}
+for Y in {2020..2025}
 do
   mkdir $Y
   cd $Y
